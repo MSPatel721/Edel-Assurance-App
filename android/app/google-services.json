@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "901697518527",
+    "project_id": "edelassurance-app",
+    "storage_bucket": "edelassurance-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901697518527:android:9a48fa592d15e27efb3f0a",
+        "android_client_info": {
+          "package_name": "com.edelassurance.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2l-3uFvAvf0Gt5WdN0icU4R7uam_UeQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

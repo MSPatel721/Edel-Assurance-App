@@ -1,0 +1,35 @@
+{
+  "" : {
+    "const-values" : "/Users/imac/Downloads/new_app/ios/build/Pods.build/Release-iphoneos/awesome_notifications.build/Objects-normal/arm64/awesome_notifications-master.swiftconstvalues",
+    "dependencies" : "/Users/imac/Downloads/new_app/ios/build/Pods.build/Release-iphoneos/awesome_notifications.build/Objects-normal/arm64/awesome_notifications-master.d",
+    "diagnostics" : "/Users/imac/Downloads/new_app/ios/build/Pods.build/Release-iphoneos/awesome_notifications.build/Objects-normal/arm64/awesome_notifications-master.dia",
+    "emit-module-dependencies" : "/Users/imac/Downloads/new_app/ios/build/Pods.build/Release-iphoneos/awesome_notifications.build/Objects-normal/arm64/awesome_notifications-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/imac/Downloads/new_app/ios/build/Pods.build/Release-iphoneos/awesome_notifications.build/Objects-normal/arm64/awesome_notifications-master-emit-module.dia",
+    "swift-dependencies" : "/Users/imac/Downloads/new_app/ios/build/Pods.build/Release-iphoneos/awesome_notifications.build/Objects-normal/arm64/awesome_notifications-master.swiftdeps"
+  },
+  "/Users/imac/.pub-cache/hosted/pub.dev/awesome_notifications-0.10.0/ios/Classes/lib/DartAwesomeNotificationsExtension.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/awesome_notifications.build/Objects-normal/arm64/DartAwesomeNotificationsExtension.o",
+    "llvm-bc" : "/Users/imac/Downloads/new_app/ios/build/Pods.build/Release-iphoneos/awesome_notifications.build/Objects-normal/arm64/DartAwesomeNotificationsExtension.bc",
+    "object" : "/Users/imac/Downloads/new_app/ios/build/Pods.build/Release-iphoneos/awesome_notifications.build/Objects-normal/arm64/DartAwesomeNotificationsExtension.o"
+  },
+  "/Users/imac/.pub-cache/hosted/pub.dev/awesome_notifications-0.10.0/ios/Classes/lib/DartBackgroundExecutor.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/awesome_notifications.build/Objects-normal/arm64/DartBackgroundExecutor.o",
+    "llvm-bc" : "/Users/imac/Downloads/new_app/ios/build/Pods.build/Release-iphoneos/awesome_notifications.build/Objects-normal/arm64/DartBackgroundExecutor.bc",
+    "object" : "/Users/imac/Downloads/new_app/ios/build/Pods.build/Release-iphoneos/awesome_notifications.build/Objects-normal/arm64/DartBackgroundExecutor.o"
+  },
+  "/Users/imac/.pub-cache/hosted/pub.dev/awesome_notifications-0.10.0/ios/Classes/lib/FlutterAudioUtils.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/awesome_notifications.build/Objects-normal/arm64/FlutterAudioUtils.o",
+    "llvm-bc" : "/Users/imac/Downloads/new_app/ios/build/Pods.build/Release-iphoneos/awesome_notifications.build/Objects-normal/arm64/FlutterAudioUtils.bc",
+    "object" : "/Users/imac/Downloads/new_app/ios/build/Pods.build/Release-iphoneos/awesome_notifications.build/Objects-normal/arm64/FlutterAudioUtils.o"
+  },
+  "/Users/imac/.pub-cache/hosted/pub.dev/awesome_notifications-0.10.0/ios/Classes/lib/FlutterBitmapUtils.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/awesome_notifications.build/Objects-normal/arm64/FlutterBitmapUtils.o",
+    "llvm-bc" : "/Users/imac/Downloads/new_app/ios/build/Pods.build/Release-iphoneos/awesome_notifications.build/Objects-normal/arm64/FlutterBitmapUtils.bc",
+    "object" : "/Users/imac/Downloads/new_app/ios/build/Pods.build/Release-iphoneos/awesome_notifications.build/Objects-normal/arm64/FlutterBitmapUtils.o"
+  },
+  "/Users/imac/.pub-cache/hosted/pub.dev/awesome_notifications-0.10.0/ios/Classes/lib/SwiftAwesomeNotificationsPlugin.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/awesome_notifications.build/Objects-normal/arm64/SwiftAwesomeNotificationsPlugin.o",
+    "llvm-bc" : "/Users/imac/Downloads/new_app/ios/build/Pods.build/Release-iphoneos/awesome_notifications.build/Objects-normal/arm64/SwiftAwesomeNotificationsPlugin.bc",
+    "object" : "/Users/imac/Downloads/new_app/ios/build/Pods.build/Release-iphoneos/awesome_notifications.build/Objects-normal/arm64/SwiftAwesomeNotificationsPlugin.o"
+  }
+}

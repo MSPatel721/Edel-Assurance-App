@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/imac/Downloads/new_app/ios/build/Release-iphoneos/IosAwnCore/IosAwnCore.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/imac/Downloads/new_app/ios/build/Pods.build/Release-iphoneos/IosAwnCore.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/imac/Downloads/new_app/ios/build/Release-iphoneos/IosAwnCore/IosAwnCore.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "IosAwnCore-Swift.h",
+      'external-contents': "/Users/imac/Downloads/new_app/ios/build/Pods.build/Release-iphoneos/IosAwnCore.build/unextended-interface-header.h",
+    }]
+    }]
+}

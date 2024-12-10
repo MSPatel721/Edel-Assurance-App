@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/imac/Downloads/new_app/ios/build/Release-iphoneos/app_links/app_links.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/imac/Downloads/new_app/ios/build/Pods.build/Release-iphoneos/app_links.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/imac/Downloads/new_app/ios/build/Release-iphoneos/app_links/app_links.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "app_links-Swift.h",
+      'external-contents': "/Users/imac/Downloads/new_app/ios/build/Pods.build/Release-iphoneos/app_links.build/unextended-interface-header.h",
+    }]
+    }]
+}

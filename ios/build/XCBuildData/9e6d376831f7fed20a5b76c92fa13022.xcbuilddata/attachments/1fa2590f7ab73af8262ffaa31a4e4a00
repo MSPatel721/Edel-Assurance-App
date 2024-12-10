@@ -1,0 +1,15 @@
+{
+  "" : {
+    "const-values" : "/Users/imac/Downloads/new_app/ios/build/Pods.build/Release-iphoneos/OrderedSet.build/Objects-normal/arm64/OrderedSet-master.swiftconstvalues",
+    "dependencies" : "/Users/imac/Downloads/new_app/ios/build/Pods.build/Release-iphoneos/OrderedSet.build/Objects-normal/arm64/OrderedSet-master.d",
+    "diagnostics" : "/Users/imac/Downloads/new_app/ios/build/Pods.build/Release-iphoneos/OrderedSet.build/Objects-normal/arm64/OrderedSet-master.dia",
+    "emit-module-dependencies" : "/Users/imac/Downloads/new_app/ios/build/Pods.build/Release-iphoneos/OrderedSet.build/Objects-normal/arm64/OrderedSet-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/imac/Downloads/new_app/ios/build/Pods.build/Release-iphoneos/OrderedSet.build/Objects-normal/arm64/OrderedSet-master-emit-module.dia",
+    "swift-dependencies" : "/Users/imac/Downloads/new_app/ios/build/Pods.build/Release-iphoneos/OrderedSet.build/Objects-normal/arm64/OrderedSet-master.swiftdeps"
+  },
+  "/Users/imac/Downloads/new_app/ios/Pods/OrderedSet/Sources/OrderedSet.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/OrderedSet.build/Objects-normal/arm64/OrderedSet.o",
+    "llvm-bc" : "/Users/imac/Downloads/new_app/ios/build/Pods.build/Release-iphoneos/OrderedSet.build/Objects-normal/arm64/OrderedSet.bc",
+    "object" : "/Users/imac/Downloads/new_app/ios/build/Pods.build/Release-iphoneos/OrderedSet.build/Objects-normal/arm64/OrderedSet.o"
+  }
+}
